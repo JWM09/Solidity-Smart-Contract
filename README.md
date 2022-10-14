@@ -36,7 +36,6 @@ The below images show the various required screen captures:
  ![Withdraw 5](Execution_Results/1_withdraw.png)  
 
  ![Deposit 10](Execution_Results/10_withdraw.png)  
-  ![Transaction](Images/contract_call.png)
   
 
 Overall I can certainly see the value of of such technology and the ability to work with it enhancing my career opportunities as a fintech professional.  
